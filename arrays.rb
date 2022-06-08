@@ -2,3 +2,11 @@ countries_visited = ["Vietnam", "Honduras", "Denmark", "Scotland"]
 ages = [2, 3, 5, 8]
 payments = [24.12, 34.55, 64.24, 78.93]
 online = [true, true, false]
+countries_visited.length
+#shows the amount of elements in the array
+ages.pop
+#removes the last element in the array
+payments.unshift (2.34)
+#adds a new element to the beginning of an array
+online.shift
+#removes the first element of an array
