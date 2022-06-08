@@ -11,3 +11,5 @@ payments.unshift (2.34)
 #adds a new element to the beginning of an array
 online.shift
 #removes the first element of an array
+countries_visited.reverse
+#reverses the order the elements appear in the array
